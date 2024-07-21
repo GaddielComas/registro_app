@@ -5,7 +5,7 @@ import 'package:registro_app/screens/about_screen.dart';
 import 'package:registro_app/screens/data_entry_screen.dart';
 import 'package:registro_app/screens/login_screen.dart';
 import 'package:registro_app/screens/register_screen.dart';
-
+//Gaddiel Comas #2019-8909
 void main() {
   runApp(MyApp());
 }
